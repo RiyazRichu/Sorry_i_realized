@@ -129,7 +129,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.5 }}
             className="text-xl text-purple-200 leading-relaxed"
           >
-            You're so beautiful, but I still hurt you… I'm so sorry.💔
+            You're so beautiful, but still I hurted you… I'm so sorry.💔
           </motion.p>
 
           <motion.p
